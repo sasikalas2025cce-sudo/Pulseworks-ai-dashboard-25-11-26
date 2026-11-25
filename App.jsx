@@ -46,7 +46,7 @@ function App() {
       <main className="main">
 
         <header>
-          <h1>Welcome back, Praveen 👋</h1>
+          <h1>Welcome back, Sasikala 👋</h1>
           <p>Here's what's happening in your workspace today.</p>
         </header>
 
